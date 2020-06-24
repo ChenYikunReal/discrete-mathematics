@@ -1,3 +1,3 @@
-# ÀëÉ¢ÊıÑ§
+ï»¿# ç¦»æ•£æ•°å­¦
 
-[ÊµÑéÁ´½Ó](https://github.com/ChenYikunReal/discrete_math_experiments)
+[å®éªŒé“¾æ¥](https://github.com/ChenYikunReal/discrete_math_experiments)
